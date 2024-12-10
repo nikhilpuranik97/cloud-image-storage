@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+Pillow
+pywavelets
+scikit-image
+boto3
+pycryptodome
